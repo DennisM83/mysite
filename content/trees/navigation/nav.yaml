@@ -1,0 +1,8 @@
+tree:
+  -
+    id: e20cc94c-9cd2-466a-9d79-b2578481e81f
+    entry: home
+  -
+    id: 0f03d89a-9750-44a0-9c41-1d79660a9228
+    title: Login
+    url: /cp/auth/login
